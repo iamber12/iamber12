@@ -13,7 +13,7 @@
 <ul>
   <li>👨‍💻 Passionate developer living by "Learn by Doing"</li>
   <li>🚀 Currently immersed in backend development with Go</li>
-  <li>👨‍💼 Entrepreneurial developer running a solo IT venture</li>
+  <li>👨‍💼 Running a solo IT venture</li>
 </ul>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/iamber12/iamber12/issues/new"><b>here</b></a><br><br>
