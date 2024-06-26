@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amber and I am an aspiring backend developer from Canada.</p>
+<p align="left">My name is Amber and I am an aspiring full-stack developer from Canada.</p>
 
 ###
 
